@@ -1,0 +1,4 @@
+const state = [];
+
+// Change code below this line
+let mapStateToProps = (state) => ({messages:state})
